@@ -1,8 +1,3 @@
-.title  {
-  color: goldenrod;
-  font-family: "Great Vibes", cursive;
-  font-size: 3rem;
-}
 
 body {
   
@@ -12,6 +7,12 @@ body {
   align-items: center;
   background-color: rgb(236, 243, 236);
   height: 100vh;
+}
+
+.title  {
+  color: goldenrod;
+  font-family: "Great Vibes", cursive;
+  font-size: 3rem;
 }
 
 .card {
